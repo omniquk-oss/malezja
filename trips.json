@@ -1,0 +1,137 @@
+{
+  "trips": [
+    {
+      "id": "full-manera-kl-forest-eco-park-jalan-alor",
+      "category": "full",
+      "title": "Manera + KL Forest Eco Park + Jalan Alor",
+      "places": [
+        "Manera - taras widokowy, na górze restauracja, wstep 80-120 zł",
+        "KL Forest Eco Park - najstarszy rezerwat leśny w centrum miasta, ciekawa roślinność, małpy, chodzi się po wiszacych mostach, wstep 40 zł/ osobę",
+        "Jalan Alor - klimatyczna ulica, ogromny wybor jedzenia, koniecznie wieczorem"
+      ],
+      "maps": [
+        {
+          "label": "Manera",
+          "url": "https://maps.app.goo.gl/2VMDHitzAKb86uYE7"
+        },
+        {
+          "label": "KL Forest Eco Park",
+          "url": "https://maps.app.goo.gl/hU7mGnwgEg2yBGKy6"
+        },
+        {
+          "label": "Jalan Alor",
+          "url": "https://maps.app.goo.gl/5htuMiDcCYrxwc9J6"
+        }
+      ],
+      "youtube": [
+        {
+          "label": "Manera",
+          "url": "https://youtube.com/shorts/zS43lW-IK2w?si=9dNvCkL0PXBM9vxN"
+        },
+        {
+          "label": "KL Forest Eco Park",
+          "url": "https://youtube.com/shorts/ie5axEoEajY?si=rXoUQCv48Kc6J1i-"
+        },
+        {
+          "label": "Jalan Alor",
+          "url": "https://youtube.com/shorts/WOpaW8ZUdsE?si=rN8sxKtBWuG3_fVi"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://media.istockphoto.com/id/1271563674/photo/kl-tower.jpg?s=612x612&w=0&k=20&c=pxfkWuxWYTZllGh_b2EWaTmCbb-FgZQp10WFBQPSQjY=",
+          "caption": "Manera"
+        },
+        {
+          "url": "https://www.nothingfamiliar.com/wp-content/uploads/2019/01/What-to-do-in-Kuala-Lumpur.jpg",
+          "caption": "KL Forest Eco Park"
+        },
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/dd/72/22/jalan-alor.jpg?w=900&h=500&s=1",
+          "caption": "Jalan Alor"
+        }
+      ],
+      "image": "https://www.curiousgoosetravel.com/wp-content/uploads/2023/07/6262bd_c636e29c04b2432e87e4d7c67bffc7cemv2.jpg"
+    },
+    {
+      "id": "full-batu-caves-petronas-towers-pokaz-fontanny",
+      "category": "full",
+      "title": "Batu Caves + Petronas Towers pokaz fontanny",
+      "places": [
+        "Batu Caves - dojazd - grab, wejściówki do głównej świątynii bezpłatne, do reszty wejsciowki kupuje sie na terenie kompleksu",
+        "Petronas Towers - wieczorny pokaz fontanny, najlepsze pokazy - 20:00, 21:00, 22:00, wejscie na taraz widokowy skybridge - 130 RM, skybridge + taras 230 RM"
+      ],
+      "maps": [
+        {
+          "label": "Batu Caves",
+          "url": "https://maps.app.goo.gl/RzeLvzmr7fW9zsjN9"
+        },
+        {
+          "label": "Petronas Towers",
+          "url": "https://maps.app.goo.gl/jny3JtJeD2X1cWqv9"
+        }
+      ],
+      "youtube": [
+        {
+          "label": "Batu Caves",
+          "url": "https://youtube.com/shorts/p6NLE91MVKg?si=1d7smXplwqWdEzKc"
+        },
+        {
+          "label": "Petrpoas Towers",
+          "url": "https://youtube.com/shorts/AZYbTxUCQFI?si=xoVEKZvtHXkCA6EI"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://www.travelawaits.com/wp-content/uploads/2021/04/09d238da965c00f23453ebd6adb7309d238-scaled.jpg?resize=800%2C800",
+          "caption": "Batu Caves"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Petronas_Panorama_II_%284to3%29.jpg/250px-Petronas_Panorama_II_%284to3%29.jpg",
+          "caption": "Petronas Towers"
+        }
+      ],
+      "image": "https://cdn-imgix.headout.com/media/images/8c537f2582951808f053e92278f712c5-28559-pahang-from-kuala-lumpur--genting-highlands---batu-caves-day-trip-02.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&ar=16%3A9&crop=faces&fit=crop"
+    },
+    {
+      "id": "full-swiatynia-thean-hou-botanical-gardens-motylarnia-ewentualnie-park-ptakow",
+      "category": "full",
+      "title": "Świątynia Thean Hou + Botanical Gardens Motylarnia + ewentualnie Park ptaków",
+      "places": [
+        "Motylarnia - Najwiekszy ogrod motyli na świenie, najlepiej rano - chłodniej, motyle bardziej aktywne, 10-15 myr bilet normalny",
+        "Światynia Thean Hou - wejsciowka darmowa, klimatyczne swiatelka nocą"
+      ],
+      "maps": [
+        {
+          "label": "Motylarnia",
+          "url": "https://maps.app.goo.gl/hLTGP7B8N9fX5dLV9"
+        },
+        {
+          "label": "Thean Hou",
+          "url": "https://maps.app.goo.gl/quLojSdAoMAc22LJ8"
+        }
+      ],
+      "youtube": [
+        {
+          "label": "Motylarnia",
+          "url": "https://youtu.be/XyhLym46Nig?si=ZQ9dy6tQGScSJ0ZJ"
+        },
+        {
+          "label": "Thean Hou",
+          "url": "https://youtu.be/zBnH3BTtvjo?si=-0_cNfzmbx3__8gP"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://c8.alamy.com/comp/R5EFX8/butterfly-park-kuala-lumpur-malaysia-R5EFX8.jpg",
+          "caption": "Motylarnia"
+        },
+        {
+          "url": "https://www.hlimg.com/images/things2do/738X538/thean-hou-temple-night_1470981889p.jpg",
+          "caption": "Thean Hou"
+        }
+      ],
+      "image": "https://media3.thrillophilia.com/filestore/qflm49bbnbpasghy7boic1jvts9d_shutterstock_503565349.jpg?w=400&dpr=2"
+    }
+  ]
+}
